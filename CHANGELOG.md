@@ -1,3 +1,7 @@
+# 1.4.1 Alpha
+
+ - added inline option to imports to pull in CSS into less files, un-parsed
+
 # 1.4.0 Beta
 
 2013-03-07
